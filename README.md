@@ -29,3 +29,11 @@ Frontend:
 
 ```bash
 ./mvnw spring-boot:run
+```
+
+## Run Frontend
+
+```bash
+npm install
+npm run dev
+```
